@@ -1,0 +1,49 @@
+會議名稱：討論 FHIR 專病庫如何在台發展
+日期時間：2025/09/28 14:00–17:00
+地點：會議室 H305
+主持人：蕭嘉紅老師
+記錄人：李宥慧
+出席人員：阿發 瑞多 詠心 和另外兩位學姐
+
+⸻
+
+一、會議議程
+	1.	專案進度報告
+	2.	下階段工作分配
+
+二、討論重點
+
+    * CVS、Iot 物聯網、HackMD
+         使用gpt查詢
+         1.情境
+         2.需處理到那些資訊資訊
+         3.使用者資料
+
+	1. 下禮拜or下下禮拜學習使用json
+                    
+    * 如何node.js建立HTTPS
+    * 網頁產生 CSV 生理監測記錄
+
+https://hackmd.io/TUmLJr89SPG25ueR3PjUWQ?view
+
+三、決議事項
+	1.	程規（一）的同學改寫程式
+
+v### 3. C read file example
+unsigned char buffer [2000];
+FILE * pFile;
+pFile = fopen ("d:|\img "rb") "rb");
+"rb");
+fread (buffer, sizeof(char), sizeof (buffer), pFile);
+felose (pFile) ;
+int i;
+for (i=0; i< 2000;i++)
+printf("index:%d, value: %03d, %02x, ASCII:%c\n", i,
+buffer [il, buffer [i], buffer [i]); }
+
+
+	2.	下禮拜二9/30要開會
+
+四、待辦事項 (Action Items)
+	•	詠心：這學期跑程式寫檔
+	•	李宥慧：跟老師預約時間開線上會議
